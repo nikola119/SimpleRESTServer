@@ -1,0 +1,11 @@
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\bin\Debug\netcoreapp2.0\SimpleRESTServer.deps.json
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\bin\Debug\netcoreapp2.0\SimpleRESTServer.runtimeconfig.json
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\bin\Debug\netcoreapp2.0\SimpleRESTServer.runtimeconfig.dev.json
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\bin\Debug\netcoreapp2.0\SimpleRESTServer.dll
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\bin\Debug\netcoreapp2.0\SimpleRESTServer.pdb
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\obj\Debug\netcoreapp2.0\SimpleRESTServer.csprojResolveAssemblyReference.cache
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\obj\Debug\netcoreapp2.0\SimpleRESTServer.csproj.CoreCompileInputs.cache
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\obj\Debug\netcoreapp2.0\SimpleRESTServer.AssemblyInfoInputs.cache
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\obj\Debug\netcoreapp2.0\SimpleRESTServer.AssemblyInfo.cs
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\obj\Debug\netcoreapp2.0\SimpleRESTServer.dll
+C:\Users\nikola\documents\visual studio 2017\Projects\SimpleRESTServer\SimpleRESTServer\obj\Debug\netcoreapp2.0\SimpleRESTServer.pdb
